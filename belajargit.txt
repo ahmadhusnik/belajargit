@@ -3,3 +3,5 @@ belajar dulu aja
 tambahan untuk nambah branch
 sekarang ini perubahan untuk branch feature a
 efew
+perubahan branch b
+perubahan untuk konflik
